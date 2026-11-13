@@ -19,4 +19,4 @@ To learn and demonstrate technical documentation,
 presentation creation, and version control.
 
 ## Author
-Anshav Ayush
+Priyanshu Soni
